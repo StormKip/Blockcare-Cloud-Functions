@@ -1,0 +1,9 @@
+{
+    "connection_file": "ibpConnection.json",
+    "appAdmin": "app-admin",
+    "appAdminSecret": "app-adminpw",
+    "orgMSPID": "org1msp",
+    "caName": "184.172.253.164:32379",
+    "userName": "user4",
+    "gatewayDiscovery": { "enabled": true, "asLocalhost": false }
+  }
